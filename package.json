@@ -18,7 +18,7 @@
     "express": "4.17.x",
     "request": "2.88.x",
     "body-parser": "1.19.x",
-    "socket.io": "2.3.x"
+    "socket.io": "2.4.x"
   },
   "devDependencies": {
     "mocha": "^7.2.0",
